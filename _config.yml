@@ -1,0 +1,14 @@
+layout_spectrum: 0.2309017
+typography_spectrum: 0.8941593
+color:
+  saturation: 0.4662417
+  lightness: 0.554783
+  brandStrength: 0.5820181
+  rhythmicContrast: 0.104092
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Modern Pilot
