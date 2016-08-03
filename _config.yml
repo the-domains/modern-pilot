@@ -1,14 +1,3 @@
-color:
-  saturation: 0.4662417
-  brandStrength: 0.5820181
-  rhythmicContrast: 0.104092
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.554783
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2309017
 typography_spectrum: 0.8941593
+color:
+  saturation: 0.4662417
+  brandStrength: 0.5820181
+  rhythmicContrast: 0.104092
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  lightness: 0.554783
+layout_spectrum: 0.9360902
 name: Modern Pilot
