@@ -1,14 +1,29 @@
+name: Modern Pilot
+favicon: null
 layout_spectrum: 0.2309017
 typography_spectrum: 0.8941593
+title: Modern Pilot
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4662417
-  lightness: 0.554783
-  brandStrength: 0.5820181
-  rhythmicContrast: 0.104092
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Modern Pilot
+  brandStrength: 0.5820181
+  lightness: 0.554783
+  saturation: 0.4662417
+  rhythmicContrast: 0.104092
+purpose: []
