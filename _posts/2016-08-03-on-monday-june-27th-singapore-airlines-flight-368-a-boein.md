@@ -4,9 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-04T17:25:21.381Z'
-dateModified: '2016-08-04T17:25:05.448Z'
+description: >-
+  On Monday, June 27th, Singapore Airlines Flight 368, a Boeing 777-300ER with
+  222 passengers and 19 crew aboard, made an emergency landing at Changi airport
+  in Singapore and burst into flames according to a statement made by the
+  airline on Twitter. 
+datePublished: '2016-08-04T17:26:08.349Z'
+dateModified: '2016-08-04T17:25:29.771Z'
 author: []
 via: {}
 sourcePath: _posts/2016-08-03-on-monday-june-27th-singapore-airlines-flight-368-a-boein.md
@@ -20,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b417da-9755-44ce-abe8-94599854a2c9.jpg)
 
-On Monday, June 27th, Singapore Airlines Flight 368, a Boeing 777-300ER with 222 passengers and 19 crew aboard, made an emergency landing at Changi airport in Singapore and burst into flames according to a statement made by the airline on Twitter.  
+On Monday, June 27th, Singapore Airlines Flight 368, a Boeing 777-300ER with 222 passengers and 19 crew aboard, made an emergency landing at Changi airport in Singapore and burst into flames according to a statement made by the airline on Twitter.
 
 The flight departed at 2:24am and about 2 hours into the flight, the crew noticed an "engine oil warning message", prompting a return. At 6:48am local time, the jetliner touched back down and came to a stop, just 4 hours and 24 minutes after takeoff. After the plane came to a stop, the number 2 engine, a powerful General Electric GE-90 turbofan, caught fire. Large flames engulfed the entire right wing of the plane while passengers sat mere feet away, recording the whole thing on their smartphones.
 
